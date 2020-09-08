@@ -12,3 +12,4 @@ clock = Label(root, font = ("times", 50, "bold"), bg = "blue")
 clock.grid(row=0, column=1)
 tick()
 root.mainloop()
+
